@@ -1,0 +1,7 @@
+# Data files (too large for GitHub)
+data/
+models/
+__pycache__/
+.env
+venv/
+*.pyc
