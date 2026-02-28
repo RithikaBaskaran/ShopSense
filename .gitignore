@@ -1,7 +1,9 @@
 # Data files (too large for GitHub)
-data/
-models/
-__pycache__/
 .env
-venv/
-*.pyc
+hf_space/
+models/
+data/*.bin
+data/*.json
+data/*.csv
+__pycache__/
+.venv/
